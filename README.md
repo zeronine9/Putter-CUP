@@ -6,3 +6,5 @@ A tool for testing improper put method vulnerability
 
 python3 put.py -f live-subs.txt
 
+#  Result :- 
+The result in txt file "result.txt"
